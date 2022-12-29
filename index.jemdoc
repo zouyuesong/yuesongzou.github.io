@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}
+== Yuesong (Joseph) Zou
+
+~~~
+{}{img_left}{files/avatar.jpg}{alt text}{180}{240}{}
+Master's Student \n
+[https://www.cs.mcgill.ca/ School of Computer Science] \n
+[https://www.mcgill.ca/ McGill Univeristy] \n
+3630 Rue University \n
+Office: Trottier 3105 \n
+E-mail: /logic.zys/ \[AT\] gmail \[DOT\] com (recommended) \n
+E-mail: /yuesong.zou/ \[AT\] mail \[DOT\] mcgill \[DOT\] ca \n
+\n[https://scholar.google.com/citations?hl=zh-CN&user=K-eOE88AAAAJ Google Scholar], [https://www.linkedin.com/in/yuesong-joseph-zou-200814191/ LinkedIn]
+~~~
+
+I am a master's student at McGill University, where I'm very fortunate to be advised by [https://www.cs.mcgill.ca/~yueli/ Prof. Yue Li]. Prior to that, I received my bachelor's degree from [https://iiis.tsinghua.edu.cn/en/yaoclass/ Institute for Interdisciplinary Information Sciences] (a.k.a, Yao Class) at Tsinghua University.
+
+My research interests include *computational healthcare*, *biomedical knowledge graph*, and *machine learning* (especially *graph representation learning* and *topic modeling*).
+
+At Tsinghua University, I was first introduced to computational biology research by [https://iiis.tsinghua.edu.cn/zengjy/ Prof. Jianyang Zeng] and worked on *T cell receptor $\alpha, \beta$-chain pairing*. During the Spring of 2019, I was visiting CMU, working under the supervision of [http://www.cs.cmu.edu/~jianma/index.html Prof. Jian Ma] on *hypergraph learning* and *Hi-C data analysis*. My bachelor's thesis advisor is [http://bioinfo.au.tsinghua.edu.cn/member/xzhang/XZhang_English.html Prof. Xuegong Zhang]. 
+
+
+
+== Publications 
+- *Modeling electronic health record data using an end-to-end knowledge-graph-informed topic model*\ \[[https://doi.org/10.1038/s41598-022-22956-w DOI]\]\[[files/GAT_ETM_poster.pdf poster]\]  \n
+	_Yuesong Zou_, Ahmad Pesaranghader, Ziyang Song, Aman Verma, David Buckeridge, Yue Li \n
+	/Scientific Reports/, vol. 12,1 17868. 
+
+- *MixEHR-Guided: A guided multi-modal topic modeling approach for large-scale automatic phenotypingusing the electronic health record* \[[https://doi.org/10.1016/j.jbi.2022.104190 DOI]\] \n
+	Yuri Ahuja, _Yuesong Zou_, Aman Verma, David Buckeridge, Yue Li \n
+	/Journal of Biomedical Informatics/, vol.  134 (2022):  104190.
+
+- *Hyper-SAGNN: a self-attention based graph neural network for hypergraphs* \[[https://arxiv.org/abs/1911.02613 arXiv]\] \n
+	Ruochi Zhang, _Yuesong Zou_, Jian Ma \n
+	/International Conference on Learning Representations (ICLR) 2020/ 
+
+== Presentation
+- *Modeling  electronic  health  record  data  using  an  end-to-end  knowledge-graph-informed  topic  model*, McGill School of Computer Science 50th anniversary celebration, Oct. 21, 2022
