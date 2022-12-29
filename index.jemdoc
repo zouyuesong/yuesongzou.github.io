@@ -2,7 +2,7 @@
 == Yuesong (Joseph) Zou
 
 ~~~
-{}{img_left}{files/avatar.jpg}{alt text}{180}{240}{}
+{}{img_left}{https://zouyuesong.github.io/files/avatar.jpg}{alt text}{180}{240}{}
 Master's Student \n
 [https://www.cs.mcgill.ca/ School of Computer Science] \n
 [https://www.mcgill.ca/ McGill Univeristy] \n
@@ -22,7 +22,7 @@ At Tsinghua University, I was first introduced to computational biology research
 
 
 == Publications 
-- *Modeling electronic health record data using an end-to-end knowledge-graph-informed topic model*\ \[[https://doi.org/10.1038/s41598-022-22956-w DOI]\]\[[files/GAT_ETM_poster.pdf poster]\]  \n
+- *Modeling electronic health record data using an end-to-end knowledge-graph-informed topic model*\ \[[https://doi.org/10.1038/s41598-022-22956-w DOI]\]\[[https://zouyuesong.github.io/files/GAT_ETM_poster.pdf poster]\]  \n
 	_Yuesong Zou_, Ahmad Pesaranghader, Ziyang Song, Aman Verma, David Buckeridge, Yue Li \n
 	/Scientific Reports/, vol. 12,1 17868. 
 
